@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b8f88d1.chunk.css",
+    "main.js": "/static/js/main.e9e7dfa8.chunk.js",
+    "main.js.map": "/static/js/main.e9e7dfa8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c1b9e8e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c1b9e8e9.js.map",
+    "static/js/2.02f9ecaa.chunk.js": "/static/js/2.02f9ecaa.chunk.js",
+    "static/js/2.02f9ecaa.chunk.js.map": "/static/js/2.02f9ecaa.chunk.js.map",
+    "static/js/3.2dfa4c85.chunk.js": "/static/js/3.2dfa4c85.chunk.js",
+    "static/js/3.2dfa4c85.chunk.js.map": "/static/js/3.2dfa4c85.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1b8f88d1.chunk.css.map": "/static/css/main.1b8f88d1.chunk.css.map",
+    "static/js/2.02f9ecaa.chunk.js.LICENSE.txt": "/static/js/2.02f9ecaa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Silkscreen-Regular.5e6570ed.ttf",
+    "static/media/SilkyDogImg.991e4d86.png": "/static/media/SilkyDogImg.991e4d86.png",
+    "static/media/boxBrown.5b6f3cdd.png": "/static/media/boxBrown.5b6f3cdd.png",
+    "static/media/boxRed.4642dc2d.png": "/static/media/boxRed.4642dc2d.png",
+    "static/media/discord.acc0c4b1.svg": "/static/media/discord.acc0c4b1.svg",
+    "static/media/goHome.b34b4e19.svg": "/static/media/goHome.b34b4e19.svg",
+    "static/media/telegramm.637cad7e.svg": "/static/media/telegramm.637cad7e.svg",
+    "static/media/twitter.0eed05c5.svg": "/static/media/twitter.0eed05c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b9e8e9.js",
+    "static/js/2.02f9ecaa.chunk.js",
+    "static/css/main.1b8f88d1.chunk.css",
+    "static/js/main.e9e7dfa8.chunk.js"
+  ]
+}
